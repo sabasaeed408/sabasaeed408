@@ -11,7 +11,7 @@
  #### 💡  Accomplishments
 
 -   🙌  [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
-- ## Things I am passionate about
+#### Things I am passionate about
 
 -   Machine Learning  🤖
 -   Empowering the Community  💪
