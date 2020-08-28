@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm  SABA! 👋
 
-<!--
-**sabasaeed408/sabasaeed408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Elsewhere on the internet
 
-Here are some ideas to get you started:
+[![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/_sabasaeed)  [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/saba-saeed-971b6b192/)
+	
+####  Little bit about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🏫  I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET),Taxila.
+-   ⚡️  Level one seller on [Fiverr](https://www.fiverr.com/sabach408?up_rollout=true)  
+ #### 💡  Accomplishments
+
+-   🙌  [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
+- ## Things I am passionate about
+
+-   Machine Learning  🤖
+-   Empowering the Community  💪
+
