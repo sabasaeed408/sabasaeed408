@@ -11,7 +11,7 @@
  #### 💡  Accomplishments
 
 -   🙌  [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
--   🙌  [Founder and President Microsoft Learn Student Ambassador](https://www.facebook.com/MLSA.Uet.Taxila/)
+-   🙌  [Founder and President Microsoft Learn Student Ambassador Uet Taxila](https://www.facebook.com/MLSA.Uet.Taxila/)
 
 
 
