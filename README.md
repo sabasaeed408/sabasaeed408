@@ -16,6 +16,8 @@
 -   🙌  [Founder and President Microsoft Learn Student Ambassador Uet Taxila](https://www.facebook.com/MLSA.Uet.Taxila/)
 
 
+![sabasaeed408 GitHub stats](https://github-readme-stats.vercel.app/api?username=sabasaeed408&show_icons=true&theme=radical)
+
 
 #### Things I am passionate about
 
