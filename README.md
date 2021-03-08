@@ -8,7 +8,7 @@
 	
 ####  Little bit about me
 
--   🏫  I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET),Taxila.
+-   🏫  I am  pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET),Taxila.
 -   ⚡️  Level two seller on [Fiverr](https://www.fiverr.com/sabach408?up_rollout=true)  
  #### 💡  Accomplishments
 
