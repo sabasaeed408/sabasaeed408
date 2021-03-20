@@ -9,18 +9,10 @@
 ####  Little bit about me
 
 -   🏫  I am  pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET),Taxila.
--   ⚡️  Level two seller on [Fiverr](https://www.fiverr.com/sabach408?up_rollout=true)  
+-   ⚡️  Fiverr [Fiverr](https://www.fiverr.com/sabach408?up_rollout=true)  
  #### 💡  Accomplishments
 
 -   🙌  [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
 -   🙌  [Founder and President Microsoft Learn Student Ambassador Uet Taxila](https://www.facebook.com/MLSA.Uet.Taxila/)
 
-
-![sabasaeed408 GitHub stats](https://github-readme-stats.vercel.app/api?username=sabasaeed408&show_icons=true&theme=radical)
-
-
-#### Things I am passionate about
-
--   Machine Learning  🤖
--   Empowering the Community  💪
 
