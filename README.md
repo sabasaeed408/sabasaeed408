@@ -10,9 +10,6 @@
 
 -   🏫  I am  pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET),Taxila.
 -   ⚡️  Fiverr [Fiverr](https://www.fiverr.com/sabach408?up_rollout=true)  
- #### 💡  Accomplishments
-
--   🙌  [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile)
--   🙌  [Founder and President Microsoft Learn Student Ambassador Uet Taxila](https://www.facebook.com/MLSA.Uet.Taxila/)
+ 
 
 
