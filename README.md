@@ -1,54 +1,34 @@
-# 👋 Hi, I'm Saba
+# 👋 Hi, I'm Saba Saeed
 
-🚀 Linux Systems Engineer  
-🌱 Automation & Infrastructure Enthusiast  
-🎯 Reliability-Focused Problem Solver  
+Linux Systems Engineer and Automation Enthusiast who builds reliable, high-availability infrastructure  
 
 ---
 
-## 🌟 About Me
+## 🛠 Technologies & Skills
 
-🏢 3+ years operating high-availability fintech infrastructure  
-🔍 Strong in root cause analysis & production troubleshooting  
-⚙️ Passionate about Linux internals, storage systems & automation  
-🌍 Preparing for global open-source engineering roles  
+Linux (RHEL, Ubuntu, CentOS) | Bash | Python | Ansible | Terraform | Docker  | VMware | Nagios | ELK Stack | FreeIPA | Xymon | Free IPA |FITECH  
 
 ---
 
-## 🛠 Tech Stack
+## 💼 Work Experience
 
-💻 **Linux:** RHEL, Ubuntu, CentOS  
-⚡ **Automation:** Ansible, Terraform, Bash  
-🗄 **Storage:** SAN / NAS / Fibre Channel / iSCSI  
-📦 **Containers:** Docker, Podman  
-📊 **Monitoring:** ELK, Nagios, Xymon, Wazuh  
-🔐 **Security & Compliance:** PCI DSS, ISO 27001, CIS  
+**Systems Engineer** – Ebryx  
+**IT Systems Administrator** – i2cinc  (22-Dec-2022 - 09-feb-2026)
+**Associate DevOps Engineer** – Systems Limited   (1-Jan-2022 - 10-Oct-2026)
 
 ---
 
-## 🚀 What I'm Building
+## 🌟 Leadership & Contributions
 
-🔹 Linux automation tools  
-🔹 System troubleshooting labs  
-🔹 Infrastructure-as-Code experiments  
-🔹 Python-based operational utilities  
+Founder & President of **Microsoft Learn Student Ambassadors (MLSA)** – Beta level  
+Speaker and instructor at Linux workshops and university tech events  
 
 ---
 
-## 🌱 Currently Learning
+## 🎓 Education
 
-- Deep Linux internals & systemd  
-- Python for infrastructure engineering  
-- Ubuntu server architecture  
-- Cloud-native systems  
+**Bachelor of Computer Science** – UET Taxila
 
 ---
 
-## 🌐 Let’s Connect
-
-LinkedIn: https://www.linkedin.com/in/saba-saeed-/  
-Email: sabasaeed2272@gmail.com  
-
----
-
-⭐ If you find my projects useful, feel free to star them!
+> “Reliable infrastructure is built through automation, monitoring, and continuous learning.”
