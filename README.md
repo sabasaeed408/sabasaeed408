@@ -1,15 +1,56 @@
-# Hi there, I'm  SABA! 👋
-![](https://komarev.com/ghpvc/?username=sabasaeed408)
+# 👋 Hi, I'm Saba Saeed
 
+Linux Systems Engineer with 3+ years of experience operating high-availability infrastructure in fintech environments. I work at the intersection of Linux systems, storage platforms, automation, and reliability engineering.
 
-### Elsewhere on the internet
+I enjoy debugging production issues, improving system resilience, and building automation that reduces operational risk.
 
-[![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/_sabasaeed)  [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://linkedin.com/in/saba-saeed-971b6b192/)
-	
-####  Little bit about me
+---
 
--   🏫  I am  pursuing a Bachelor’s degree in Computer Sciences from the University of Engineering & Technology (UET),Taxila.
--   ⚡️  Fiverr [Fiverr](https://www.fiverr.com/sabach408?up_rollout=true)  
- 
+## 🧠 Areas of Expertise
 
+- High-availability Linux infrastructure (99.99% uptime environments)
+- Root Cause Analysis (RCA) & incident troubleshooting
+- Storage provisioning & performance optimization (SAN/NAS)
+- Infrastructure automation using Ansible, Terraform & Bash
+- Security hardening aligned with PCI DSS, ISO 27001 & CIS standards
+
+---
+
+## ⚙️ Technical Stack
+
+**Linux:** RHEL, Ubuntu, CentOS  
+**Automation:** Ansible, Terraform, Bash  
+**Storage & Networking:** SAN/NAS, Fibre Channel, iSCSI, NFS  
+**Virtualization & Containers:** VMware, Docker, Podman  
+**Monitoring & Observability:** ELK Stack, Nagios, Xymon, Wazuh  
+**Identity & Messaging:** FreeIPA, Zimbra, Cisco IronPort ESA  
+
+---
+
+## 🔬 Current Focus
+
+- Deepening knowledge of Linux internals & systemd
+- Expanding Python skills for systems automation
+- Exploring Ubuntu server architecture
+- Contributing to open-source projects
+
+---
+
+## 📌 Engineering Philosophy
+
+- Understand the root cause, not just the symptom  
+- Automate repetitive work  
+- Build systems that fail gracefully  
+- Document clearly and precisely  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/saba-saeed-/  
+Email: sabasaeed2272@gmail.com  
+
+---
+
+> “Reliable systems are built through understanding, not assumptions.”
 
