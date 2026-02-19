@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saba Saeed
 
-Linux Systems Engineer with 3+ years of experience operating high-availability infrastructure in fintech environments. I work at the intersection of Linux systems, storage platforms, automation, and reliability engineering.
+Linux Systems Engineer with 3+ years of experience operating high-availability infrastructure in fintech environments. I work on Linux systems, storage platforms, automation, and reliability engineering.
 
 I enjoy debugging production issues, improving system resilience, and building automation that reduces operational risk.
 
